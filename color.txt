@@ -7,3 +7,4 @@ g-green
 y-yellow
 o-orange
 r-red
+red's wavelength is higher amoung all the colors
