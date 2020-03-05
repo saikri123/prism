@@ -1,9 +1,16 @@
+newton first law states inertia
+when a body  stays in the state of rest it tends to stay in state of rest and vice versa
+
 prism consists of 7 colors in it;
 its is shortly termed as vibgyor
 v-violet
 i-indigi
 b-blue
 g-green
+
+newton second law states that 
+every action has an equal and opposite reaction
+
 y-yellow
 o-orange
 r-red
