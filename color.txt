@@ -8,3 +8,6 @@ y-yellow
 o-orange
 r-red
 red's wavelength is higher amoung all the colors
+when light travels from lower mediem to denser medium it gets reflected and refracted
+refrected percent is 94%
+reflection is 4%
