@@ -1,0 +1,9 @@
+prism consists of 7 colors in it;
+its is shortly termed as vibgyor
+v-violet
+i-indigi
+b-blue
+g-green
+y-yellow
+o-orange
+r-red
